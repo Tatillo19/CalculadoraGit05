@@ -3,6 +3,11 @@ package calculadora05;
 /**Creamos la clase calculadora 
 @author Raúl Cumbreño 1ºDAM
 */
+
+/**
+@version 11.02.2026
+
+*/
 public class Calculadora05 {
 	public int sumar(int a, int b) {
 		return a + b;
