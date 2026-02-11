@@ -1,7 +1,7 @@
 package calculadora05;
 
 /**Creamos la clase calculadora 
-@author Raúl Cumbreño
+@author Raúl Cumbreño 1ºDAM
 */
 public class Calculadora05 {
 	public int sumar(int a, int b) {
